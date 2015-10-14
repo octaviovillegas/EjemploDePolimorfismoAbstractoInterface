@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjemploUno", "EjemploUno\Ej
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjemploDos", "EjemploDos\EjemploDos.csproj", "{D3420F29-C51A-4098-ACC6-83CE92DE847B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjemploTres", "EjemploTres\EjemploTres.csproj", "{F29401D7-9736-45F1-A9B1-023E296D39D6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -19,6 +21,10 @@ Global
 		{D3420F29-C51A-4098-ACC6-83CE92DE847B}.Debug|x86.Build.0 = Debug|x86
 		{D3420F29-C51A-4098-ACC6-83CE92DE847B}.Release|x86.ActiveCfg = Release|x86
 		{D3420F29-C51A-4098-ACC6-83CE92DE847B}.Release|x86.Build.0 = Release|x86
+		{F29401D7-9736-45F1-A9B1-023E296D39D6}.Debug|x86.ActiveCfg = Debug|x86
+		{F29401D7-9736-45F1-A9B1-023E296D39D6}.Debug|x86.Build.0 = Debug|x86
+		{F29401D7-9736-45F1-A9B1-023E296D39D6}.Release|x86.ActiveCfg = Release|x86
+		{F29401D7-9736-45F1-A9B1-023E296D39D6}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

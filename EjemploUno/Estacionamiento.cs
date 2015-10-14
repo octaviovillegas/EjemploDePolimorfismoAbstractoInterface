@@ -14,6 +14,16 @@ namespace EjemploUno
             this.MiLista = new List<Vehiculo>();
 
         }
+        public void mostrar()
+        {
+           
+            foreach (Vehiculo item in MiLista)
+            {
+                item.ToString();
+
+            }
+        
+        }
 
 
     }

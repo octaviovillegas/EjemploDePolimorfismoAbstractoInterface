@@ -8,5 +8,13 @@ namespace EjemploDos
     class AlumnoEgresado:Alumno
     {
 
+        public override void comer()
+        {
+            base.comer();
+        }
+        public override void dormir()
+        {
+            base.dormir();
+        }
     }
 }
